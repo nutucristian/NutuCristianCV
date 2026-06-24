@@ -110,14 +110,14 @@ margin-left: -23px;
 .app-wrapper {
     display: flex;
     flex-direction: row-reverse;
-    width: 1200px;
+    width: 1100px;
     margin: 40px auto;
     background-color: #fff;
 }
 
 /* Main content Styles */
 .right-side-container {
-    padding-left: 88px;
+    padding-left: 20px;
     padding-right: 40px;
     padding-top: 80px;
     padding-bottom: 177px;
@@ -152,7 +152,7 @@ margin-top: -15px;
 }
 
 .projects-section {
-    margin-top: 40px;
+    margin-top: 20px;
 }
 
 .projects-header {
@@ -194,7 +194,7 @@ text-align: left;
 }
 
 .work-experience-section {
-    margin-top: 40px;
+    margin-top: 10px;
 }
 
 .work-exp-header {
